@@ -1,0 +1,62 @@
+
+    .head_and_foot {text-align: center;
+        border-style: solid;
+        border-color: pink;
+        background: pink;
+        padding:30px;
+        font-family: cursive;
+        clear:both;
+        margin-top: 10px;
+    }
+    #main_nav {border-style: solid;
+        border-color: rgb(164, 226, 255);
+        background: rgb(164, 226, 255);
+        font-size: 24px;
+
+
+
+    }
+    #main_nav ul li {
+        display: inline-block;
+        color: black;
+        list-style: none;
+        
+    }
+    #main_nav li:hover{
+        background-color: rgb(19, 22, 75);
+        color: rgb(255, 255, 255);
+        
+    }
+    .maincontainer{ 
+        padding:20px;
+        width:100%;
+    }
+    
+    .contentbox{float: left;
+        font-size: 18px;
+        border-style: solid; 
+        background:beige;
+        padding: 13px;
+        border-radius: 10px;
+        width: 50%;
+        font-family: verdana;
+    }
+    .bigname :focus{
+        width: 30%;
+    }
+ 
+  aside{float: right;
+    font-size: 15px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    background: rgb(116, 209, 156);
+    padding: 10px;
+    border-radius: 10px;
+    width: 20%;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    font-family:'Monaco';
+        
+    }
+  
+
